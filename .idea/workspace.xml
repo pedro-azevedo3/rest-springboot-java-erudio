@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="276dde98-70d6-4dff-915c-1625b68ef820" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/rest-springboot-java-erudio/src/main/java/br/com/erudio/br/com/erudio/PersonRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-springboot-java-erudio/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rest-springboot-java-erudio/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rest-springboot-java-erudio/src/main/java/br/com/erudio/br/com/erudio/controllers/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rest-springboot-java-erudio/src/main/java/br/com/erudio/br/com/erudio/controllers/PersonController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-springboot-java-erudio/src/main/java/br/com/erudio/br/com/erudio/exceptions/UnsupportedMathOperationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/rest-springboot-java-erudio/src/main/java/br/com/erudio/br/com/erudio/exceptions/ResourceNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-springboot-java-erudio/src/main/java/br/com/erudio/br/com/erudio/exceptions/handler/CustomizedResponseEntityExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/rest-springboot-java-erudio/src/main/java/br/com/erudio/br/com/erudio/exceptions/handler/CustomizedResponseEntityExceptionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-springboot-java-erudio/src/main/java/br/com/erudio/br/com/erudio/models/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/rest-springboot-java-erudio/src/main/java/br/com/erudio/br/com/erudio/models/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-springboot-java-erudio/src/main/java/br/com/erudio/br/com/erudio/services/PersonServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/rest-springboot-java-erudio/src/main/java/br/com/erudio/br/com/erudio/services/PersonServices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-springboot-java-erudio/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rest-springboot-java-erudio/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-springboot-java-erudio/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rest-springboot-java-erudio/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rest-springboot-java-erudio/target/classes/br/com/erudio/br/com/erudio/controllers/PersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/rest-springboot-java-erudio/target/classes/br/com/erudio/br/com/erudio/controllers/PersonController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-springboot-java-erudio/target/classes/br/com/erudio/br/com/erudio/exceptions/UnsupportedMathOperationException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-springboot-java-erudio/target/classes/br/com/erudio/br/com/erudio/exceptions/handler/CustomizedResponseEntityExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/rest-springboot-java-erudio/target/classes/br/com/erudio/br/com/erudio/exceptions/handler/CustomizedResponseEntityExceptionHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-springboot-java-erudio/target/classes/br/com/erudio/br/com/erudio/models/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/rest-springboot-java-erudio/target/classes/br/com/erudio/br/com/erudio/models/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-springboot-java-erudio/target/classes/br/com/erudio/br/com/erudio/services/PersonServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/rest-springboot-java-erudio/target/classes/br/com/erudio/br/com/erudio/services/PersonServices.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
