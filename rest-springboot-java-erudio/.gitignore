@@ -3,6 +3,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+/src/main/java/br.com.erudio/br.com.erudio/resources/application.yml
 
 ### STS ###
 .apt_generated
